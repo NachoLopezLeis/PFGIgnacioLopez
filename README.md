@@ -1,3 +1,5 @@
 # PFGIgnacioLopez
-En este repositorio se muestra y explica el código referente a mi Proyecto de Fin de Grado.
-[![Getty-Images-1752719931.jpg](https://i.postimg.cc/9XYzzQFZ/Getty-Images-1752719931.jpg)](https://postimg.cc/MXXzFxBp)
+En este repositorio se muestra una algoritmo en Python que resuelve el Problema del Subgrupo Oculto en grupos Abelianos, en esta implementación se a utilizado Qiskit tanto como para utilizar sus ordenadores cuánticos como para simulaciones.
+El Probelma del Subgrupo Oculto es un problema fundamental en computación cuántica, este muestra otra ventaja respecto a los algoritmos clásicos. Esta ventaja computacional y otras explicaciones referentes al Problema del Subgrupo Oculto, la Transformada de Fourier Cuántica o el algoritmo que se muestra en el repositorio son discutidas en mi Proyecto de Fin de Grado: Link
+El Problema del Subgrupo Oculto trata de encontrar H (el subgrupo oculto) dadas las siguientes condiciones: Sea G un grupo y H un subgrupo de G desconocido. Sea f una función que mapea los elmentos de G en otro conjunto X que cumple la siguiente propiedad: la función f es constante en cada clase lateralde H en G, y adopta valores distintos en cada clase lateral.
+[![HSP.png](https://i.postimg.cc/8zS7CfLR/HSP.png)](https://postimg.cc/RNgSsFsh)
