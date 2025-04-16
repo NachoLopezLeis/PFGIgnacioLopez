@@ -12,10 +12,8 @@ Implementación del algoritmo HSP para grupos abelianos finitos \( G = \mathbb{Z
    - Registro clásico: \( n \)-bits para mediciones finales.
 
 2. **Inicialización del Estado Cuántico**  
-   - Aplicar compuertas Hadamard (\( H \)) a todos los qubits del registro principal:  
-     \[
-     |\psi_0\rangle = \frac{1}{\sqrt{|G|}} \sum_{g \in G} |g\rangle |0\rangle^{\otimes k}
-     \]
+   - Aplicar la QFT a todos los qubits del registro principal:  
+
 
 3. **Aplicación del Oracle \( U_f \)**  
    - Implementar la función \( f: G \rightarrow S \) mediante compuertas controladas:  
