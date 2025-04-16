@@ -1,6 +1,6 @@
 # Proyecto de Circuitos Cuánticos
 
-Este repositorio contiene dos códigos auxiliares que han sido utilizados en el desarrollo de mi proyecto de fin de grado. A continuación se presenta un README que describe cada uno de ellos por separado.
+Este rama del repositorio contiene dos códigos auxiliares que han sido utilizados en el desarrollo de mi proyecto de fin de grado. A continuación se presenta un README que describe cada uno de ellos por separado.
 
 ---
 ### Instalación de dependencias
