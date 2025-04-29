@@ -40,7 +40,7 @@ Implementación del algoritmo HSP para grupos abelianos finitos. Incluye una QFT
       - Detereminar la estructura del grupo en la variuable moduli
 
 2. **Implementar la Función \( f \)**  
-   Aplicar la funciín f a la hora de realizar el f_mapping. En el código actual f=> f(x)=x
+   Aplicar la función f a la hora de realizar el f_mapping. En el código actual f=> f(x)=x
 
 3. **Parámetros de Ejecución**  
    - `shots`: Número de mediciones cuánticas (default: 1024).  
