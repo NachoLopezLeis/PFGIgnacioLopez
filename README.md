@@ -44,4 +44,4 @@ Además, presentamos un algoritmo que utiliza un **autoencoder híbrido** (cuán
 
 Este trabajo puede resultar de interés tanto para investigadores en computación cuántica como para estudiantes que deseen comprender las aplicaciones prácticas de los algoritmos cuánticos.
 
-**Más información:** Consulta mi Proyecto de Fin de Grado: [Link]
+**Más información:** Consulta mi Proyecto de Fin de Grado: [(https://drive.google.com/drive/folders/1hZVVp0s4Y_9CnhBIJ74fDZ5LJE_zg6MR?usp=sharing)]
