@@ -48,8 +48,8 @@ Implementación del algoritmo HSP para grupos abelianos finitos. Incluye una QFT
    - `tolerance`: Umbral para filtrar mediciones irrelevantes (default: 0.01).
      
 ## Notas
-El código completo está explicado con mucho más detalle en la memoria del Proyecto, especificamente pág. 35-42
-[Link del proyecto]
+El código completo está explicado con mucho más detalle en la memoria del Proyecto, especificamente pág. 30-37
+[(https://drive.google.com/drive/folders/1hZVVp0s4Y_9CnhBIJ74fDZ5LJE_zg6MR?usp=sharing)]
 
 # Visualización de la QFT
 
