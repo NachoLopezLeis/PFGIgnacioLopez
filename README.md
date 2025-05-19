@@ -1,4 +1,4 @@
-# PFGIgnacioLopez
+# PFGIgnacioLopez- La Transformada Cuántica de Fourier y el Problema del Subgrupo Oculto
 
 ## **Resolución del Problema del Subgrupo Oculto en Grupos Abelianos**
 
