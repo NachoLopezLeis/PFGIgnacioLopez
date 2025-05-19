@@ -23,6 +23,7 @@ Nuestro algoritmo aprovecha las propiedades de la **Transformada de Fourier Cuá
 ## **Características del Repositorio**
 
 - Implementación modular y extensible del algoritmo HSP para grupos abelianos.
+- QFT optimizada para el problema en cuestión
 - Ejemplos prácticos con grupos abelianos de diferentes estructuras.
 - Visualizaciones detalladas de resultados cuánticos.
 - Análisis comparativo de rendimiento frente a soluciones clásicas.
@@ -36,11 +37,7 @@ El HSP generaliza varios algoritmos cuánticos conocidos como:
 
 Todos estos algoritmos están implementados en este repositorio y explicados en detalle en la memoria del PFG.
 
-## **Aplicación Avanzada: Autoencoder Híbrido**
 
-Además, presentamos un algoritmo que utiliza un **autoencoder híbrido** (cuántico-clásico) para compresión de datos mediante el Problema del Subgrupo Oculto. Los detalles de esta implementación se encuentran en el readme de su carpeta correspondiente.
-
----
 
 Este trabajo puede resultar de interés tanto para investigadores en computación cuántica como para estudiantes que deseen comprender las aplicaciones prácticas de los algoritmos cuánticos.
 
